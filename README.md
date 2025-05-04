@@ -180,4 +180,5 @@ This led to investigation into vocabulary coverage → vocabulary and embedding 
 - [KOTE Dataset](https://github.com/searle-j/KOTE)  
 - [FER2013 Facial Dataset](https://www.kaggle.com/datasets/msambare/fer2013)  
 - [KoGPT2 by SKT-AI](https://github.com/SKT-AI/KoGPT2)  
-- [Apple CoreML Tools](https://github.com/apple/coremltools)
+- [Apple CoreML Tools](https://github.com/apple/coremltools)  
+- [AIHub 감성 기반 대화 말뭉치](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71305)  
