@@ -154,7 +154,7 @@ This led to investigation into vocabulary coverage → vocabulary and embedding 
 
 **Ensemble Model Confusion Matrix (7 Models):**
 
-![Confusion Matrix](./ensemble_matrix.png)
+![Confusion Matrix](./images/ensemble_matrix.png)
 
 > Includes per-class performance:  
 > - Labels 1 (Disgust) and 2 (Fear) showed major improvement after class weight adjustment  
