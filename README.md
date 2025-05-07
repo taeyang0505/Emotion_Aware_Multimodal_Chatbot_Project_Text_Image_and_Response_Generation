@@ -116,7 +116,7 @@ This led to investigation into vocabulary coverage → vocabulary and embedding 
 
 ### Text Model:
 - Train accuracy: **95.72%**
-- Test accuracy: **54.82%**
+- Test accuracy: **59.14%**
 - Class weights were crucial: initially, F1-scores for class 1 (Disgust) and 2 (Fear) were 0.0
 - After applying class weights: model successfully classified these minority classes with non-zero F1
 
