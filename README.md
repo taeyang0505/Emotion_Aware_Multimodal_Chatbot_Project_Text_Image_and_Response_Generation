@@ -152,7 +152,13 @@ This led to investigation into vocabulary coverage → vocabulary and embedding 
 
 ## 10. Performance Visualization
 
-[To Be Added: training curves, per-class F1-scores, ensemble gain visualization]
+**Ensemble Model Confusion Matrix (7 Models):**
+
+![Confusion Matrix](./ensemble_matrix.png)
+
+> Includes per-class performance:  
+> - Labels 1 (Disgust) and 2 (Fear) showed major improvement after class weight adjustment  
+> - Ensemble voting helped stabilize predictions across underrepresented classes
 
 ---
 
